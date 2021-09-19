@@ -17,10 +17,10 @@
 ## スクリーンショット
 
 ### 通常の認証
-  ![](./screenshots/normal.png)
+<img src="./screenshots/normal.png" width=400>
 
 ### 認証失敗時
-  ![](./screenshots/invalid.png)
+<img src="./screenshots/invalid.png" width=400>
 
 ### SQL Injection成功時
-  ![](./screenshots/sqli.png)
+<img src="./screenshots/sqli.png" width=400>
